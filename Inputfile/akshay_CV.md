@@ -47,7 +47,12 @@ Educational Qualifications
 | Intermediate  | Board of Intermediate Andhra Pradesh|     2014      |      93%    |
 | X             | ICSE                                |     2012      |    75%      |
 
+Social/Opensource Profiles
+---------------
 
+LinkedIN - [ Professional profile ] (https://www.linkedin.com/in/akshaya-kumar-puvvada-1256a698/)
+Github - [ Open source projects ] (https://github.com/) 
+dockerhub - [ for customized images] (https://hub.docker.com/u/makutak)
 
 Technical Skills
 ---------------------------
